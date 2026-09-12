@@ -13,17 +13,27 @@
 
   # 🎯 JOY DEBNATH
   
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=🚀+CSE+Student+%7C+First+Year;🤖+Discord+Bot+Architect;🎵+AI+%26+Voice+Tech;⚡+Full-Stack+Developer" alt="Typing SVG"/>
+  ## 🚀 CSE Student | Discord Bot Architect | AI Developer
+  
+  ```
+  while (true) {
+    code();
+    learn();
+    build();
+    repeat();
+  }
+  ```
+  
+  ⚡ Building Discord Ecosystems • Voice Tech • AI Automation
 
   <br>
 
-  <!-- Status Badges -->
-  <img src="https://img.shields.io/badge/Status-🚀_ACTIVE-00FF00?style=flat-square&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Vibes-⚡_HIGH_ENERGY-FF3030?style=flat-square&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Focus-🎯_BUILDING-FFD700?style=flat-square&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Collab-🤝_OPEN-5865F2?style=flat-square&labelColor=000000"/>
+  <!-- Animated Status -->
+  <p>
+    <code>🟢 ACTIVE</code> | <code>⚡ HIGH_ENERGY</code> | <code>🎯 BUILDING</code> | <code>🤝 OPEN_TO_COLLAB</code>
+  </p>
 
-  <br><br>
+  <br>
 
   **📍 Sylhet, Bangladesh 🇧🇩 | 🤖 AI & Automation | 🎵 Voice Tech**
 
@@ -48,6 +58,26 @@
   <a href="https://github.com/rax545?tab=starred">
     <img src="https://img.shields.io/badge/⭐_STARRED-FFD700?style=for-the-badge"/>
   </a>
+
+  <br><br>
+
+  <!-- Animated Banner -->
+  <svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <style>
+        @keyframes slide { 0% { transform: translateX(-100%); } 100% { transform: translateX(100%); } }
+        @keyframes glow { 0%, 100% { fill: #FF3030; } 50% { fill: #FFD700; } }
+        .slider { animation: slide 4s linear infinite; }
+        .glowing { animation: glow 2s ease-in-out infinite; }
+      </style>
+    </defs>
+    <rect width="400" height="60" fill="#0D1117" rx="10"/>
+    <text x="200" y="35" font-size="24" font-weight="bold" text-anchor="middle" fill="#FF3030" class="glowing">
+      🚀 BUILDING THE FUTURE 🚀
+    </text>
+  </svg>
+
+  <br>
 
 </div>
 
@@ -91,13 +121,13 @@ PASSION  PLANNING   BUILDING   QUALITY   RELEASE   IMPROVE
 
 <div align="center">
 
-| Aspect | Energy Level | Notes |
-|--------|:------------:|-------|
-| **Coding** | 🔥🔥🔥🔥🔥 | Always ON |
-| **Learning** | 🔥🔥🔥🔥🔥 | Never stops |
-| **Collaboration** | 🔥🔥🔥🔥☆ | Team player |
-| **Debugging** | 🔥🔥🔥🔥🔥 | Problem solver |
-| **Coffee Intake** | ☕☕☕☕☕ | Critical resource |
+| Aspect | Energy Level | Status |
+|--------|:------------:|--------|
+| **Coding** | ████████████ 100% | 🔥 ON FIRE |
+| **Learning** | ████████████ 100% | 📚 ALWAYS |
+| **Collaboration** | ██████████░░ 90% | 🤝 READY |
+| **Debugging** | ████████████ 100% | 🐛 MASTER |
+| **Coffee Intake** | ████████████ 100% | ☕ INFINITE |
 
 </div>
 
@@ -217,24 +247,30 @@ PASSION  PLANNING   BUILDING   QUALITY   RELEASE   IMPROVE
 <div align="center">
 
 ### 🔴 PROFICIENT (Daily Use)
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,discord&theme=dark&perline=8"/>
 
-**Python** · **C/C++** · **JavaScript** · **Discord.py**
+```
+Python      [████████████████████] 100%
+Discord.py  [████████████████████] 100%
+C++         [██████████████░░░░░░] 80%
+JavaScript  [██████████████░░░░░░] 80%
+```
 
 ### 🟡 COMPETENT (Regular Use)
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,react,firebase&theme=dark&perline=8"/>
 
-**HTML/CSS** · **Node.js** · **React** · **Firebase**
+```
+React       [████████████░░░░░░░░] 70%
+Firebase    [████████████░░░░░░░░] 70%
+Node.js     [███████████░░░░░░░░░] 65%
+Web Dev     [███████████░░░░░░░░░] 65%
+```
 
-### 🟢 FAMILIAR (Exploring)
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,mongodb,postgresql&theme=dark&perline=8"/>
+### 🟢 EXPLORING & LEARNING
 
-**Docker** · **Kubernetes** · **MongoDB** · **PostgreSQL**
-
-### ⚙️ TOOLS & PLATFORMS
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,claude&theme=dark&perline=8"/>
-
-**Git** · **GitHub** · **VS Code** · **Linux** · **Figma** · **Claude AI**
+```
+Machine Learning  [██████░░░░░░░░░░░░░] 40%
+Docker/K8s        [█████░░░░░░░░░░░░░░] 35%
+Advanced AI       [████░░░░░░░░░░░░░░░] 30%
+```
 
 </div>
 
@@ -338,16 +374,59 @@ async def play_music(ctx, *, query):
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rax545&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=C9D1D9&rank_icon=github&include_all_commits=true&theme=dark" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=rax545&hide_border=false&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=C9D1D9&dates=666666" width="49%"/>
+## 📈 STATS & ACHIEVEMENTS
+
+<!-- Animated Counter Cards -->
+<svg width="100%" height="140" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140">
+  <defs>
+    <style>
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+      @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+      .pulse-card { animation: pulse 2s ease-in-out infinite; }
+      .bounce-text { animation: bounce 1.5s ease-in-out infinite; }
+    </style>
+  </defs>
+  
+  <!-- Card 1 -->
+  <rect x="10" y="10" width="140" height="120" fill="#1a1a1a" stroke="#FF3030" stroke-width="2" rx="8" class="pulse-card"/>
+  <text x="90" y="50" font-size="32" font-weight="bold" fill="#FF3030" text-anchor="middle" class="bounce-text">50+</text>
+  <text x="90" y="85" font-size="13" fill="#C9D1D9" text-anchor="middle">📦</text>
+  <text x="90" y="105" font-size="12" fill="#C9D1D9" text-anchor="middle">Repositories</text>
+  
+  <!-- Card 2 -->
+  <rect x="165" y="10" width="140" height="120" fill="#1a1a1a" stroke="#FFD700" stroke-width="2" rx="8" class="pulse-card" style="animation-delay: 0.2s"/>
+  <text x="235" y="50" font-size="32" font-weight="bold" fill="#FFD700" text-anchor="middle" class="bounce-text" style="animation-delay: 0.2s">100+</text>
+  <text x="235" y="85" font-size="13" fill="#C9D1D9" text-anchor="middle">⭐</text>
+  <text x="235" y="105" font-size="12" fill="#C9D1D9" text-anchor="middle">Total Stars</text>
+  
+  <!-- Card 3 -->
+  <rect x="320" y="10" width="140" height="120" fill="#1a1a1a" stroke="#5865F2" stroke-width="2" rx="8" class="pulse-card" style="animation-delay: 0.4s"/>
+  <text x="390" y="50" font-size="32" font-weight="bold" fill="#5865F2" text-anchor="middle" class="bounce-text" style="animation-delay: 0.4s">15+</text>
+  <text x="390" y="85" font-size="13" fill="#C9D1D9" text-anchor="middle">🤖</text>
+  <text x="390" y="105" font-size="12" fill="#C9D1D9" text-anchor="middle">Discord Bots</text>
+  
+  <!-- Card 4 -->
+  <rect x="475" y="10" width="140" height="120" fill="#1a1a1a" stroke="#00FF00" stroke-width="2" rx="8" class="pulse-card" style="animation-delay: 0.6s"/>
+  <text x="545" y="50" font-size="32" font-weight="bold" fill="#00FF00" text-anchor="middle" class="bounce-text" style="animation-delay: 0.6s">500+</text>
+  <text x="545" y="85" font-size="13" fill="#C9D1D9" text-anchor="middle">🏆</text>
+  <text x="545" y="105" font-size="12" fill="#C9D1D9" text-anchor="middle">CP Problems</text>
+  
+  <!-- Card 5 -->
+  <rect x="630" y="10" width="150" height="120" fill="#1a1a1a" stroke="#FF1493" stroke-width="2" rx="8" class="pulse-card" style="animation-delay: 0.8s"/>
+  <text x="705" y="50" font-size="32" font-weight="bold" fill="#FF1493" text-anchor="middle" class="bounce-text" style="animation-delay: 0.8s">🔥</text>
+  <text x="705" y="85" font-size="13" fill="#C9D1D9" text-anchor="middle">⚡</text>
+  <text x="705" y="105" font-size="12" fill="#C9D1D9" text-anchor="middle">Always Active</text>
+</svg>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rax545&bg_color=0D1117&color=FF3030&line=FF3030&point=FF3030&area=true&hide_border=false&theme=redical" width="98%"/>
+### 🎖️ ACHIEVEMENTS
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rax545&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6&row=2"/>
+✅ **Full Stack Developer** - Frontend to Backend  
+✅ **AI/Voice Tech Specialist** - Building smart systems  
+✅ **Discord Ecosystem Master** - 15+ production bots  
+✅ **Competitive Programmer** - 500+ DSA problems  
+✅ **Open Source Contributor** - Active community member  
 
 </div>
 
@@ -356,6 +435,18 @@ async def play_music(ctx, *, query):
 ---
 
 ## 🎯 CURRENT FOCUS
+
+<!-- Animated Loading Spinner -->
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+      .spinner { animation: spin 2s linear infinite; transform-origin: 30px 30px; }
+    </style>
+  </defs>
+  <circle cx="30" cy="30" r="20" fill="none" stroke="#FF3030" stroke-width="3" class="spinner" stroke-dasharray="50 50"/>
+  <circle cx="30" cy="10" r="4" fill="#FFD700"/>
+</svg>
 
 <div align="center">
 
@@ -378,7 +469,7 @@ async def play_music(ctx, *, query):
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=2000&color=888888&center=true&width=600&lines=💭+Always+learning+something+new;🎯+One+project+%3D+One+lesson;🚀+Building+the+future" alt="Status"/>
+💭 Always learning something new • 🎯 One project = One lesson • 🚀 Building the future
 
 </div>
 
@@ -560,9 +651,11 @@ async def play_music(ctx, *, query):
 
 <br><br>
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=rax545&color=FF3030&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
+<p>
+  👋 Thanks for visiting my profile! 
+  <br>
+  <code>Visitors: 100+ and counting...</code>
+</p>
 
 <br>
 
@@ -605,9 +698,28 @@ async def play_music(ctx, *, query):
 
 ---
 
-<div align="center">
+## 🌊 FOOTER ANIMATION
 
-## 🌟 FINAL THOUGHTS 🌟
+<!-- Animated Wave -->
+<svg width="100%" height="80" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" preserveAspectRatio="none">
+  <defs>
+    <style>
+      @keyframes wave { 
+        0% { d: path('M0,40 Q300,0 600,40 T1200,40 L1200,80 L0,80 Z'); }
+        50% { d: path('M0,30 Q300,60 600,30 T1200,30 L1200,80 L0,80 Z'); }
+        100% { d: path('M0,40 Q300,0 600,40 T1200,40 L1200,80 L0,80 Z'); }
+      }
+      .wave-path { animation: wave 4s linear infinite; }
+    </style>
+  </defs>
+  <path class="wave-path" fill="#FF3030" opacity="0.3"/>
+  <path class="wave-path" fill="#FFD700" opacity="0.2" style="animation-delay: 0.5s"/>
+  <path class="wave-path" fill="#5865F2" opacity="0.1" style="animation-delay: 1s"/>
+</svg>
+
+---
+
+## ✨ FINAL THOUGHTS
 
 ```
 "Every expert was once a beginner who refused to give up."
