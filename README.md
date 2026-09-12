@@ -1,24 +1,53 @@
 <div align="center">
 
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║           🎯 JOY DEBNATH - CODE • CREATE • REPEAT 🎯          ║
+║                                                               ║
+║        Building Discord Ecosystems | AI Voice Tech          ║
+║           CSE Student • First Year • Batch 69               ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
   # 🎯 JOY DEBNATH
-  ### Code • Create • Repeat
   
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=CSE+Student+%7C+First+Year;Building+Discord+Bots+%26+AI;Code+%2B+Create+%2B+Repeat" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=🚀+CSE+Student+%7C+First+Year;🤖+Discord+Bot+Architect;🎵+AI+%26+Voice+Tech;⚡+Full-Stack+Developer" alt="Typing SVG"/>
 
   <br>
 
-  <!-- Social & Profile Links -->
+  <!-- Status Badges -->
+  <img src="https://img.shields.io/badge/Status-🚀_ACTIVE-00FF00?style=flat-square&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Vibes-⚡_HIGH_ENERGY-FF3030?style=flat-square&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Focus-🎯_BUILDING-FFD700?style=flat-square&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Collab-🤝_OPEN-5865F2?style=flat-square&labelColor=000000"/>
+
+  <br><br>
+
+  **📍 Sylhet, Bangladesh 🇧🇩 | 🤖 AI & Automation | 🎵 Voice Tech**
+
+  <p>
+    <img src="https://img.shields.io/badge/Languages-Python_|_C++_|_JavaScript-0D1117?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Passion-Discord_|_AI_|_Automation-FF3030?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Coffee-☕_Fueled_Coding-6F4E37?style=flat-square"/>
+  </p>
+
+  <br>
+
+  ### 🔗 QUICK LINKS
+
   <a href="https://github.com/rax545">
-    <img src="https://img.shields.io/badge/GitHub-rax545-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/⭐_GitHub-rax545-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/rax545?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_PROJECTS-FF3030?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/📦_PROJECTS-FF3030?style=for-the-badge"/>
   </a>
-
-  <br>
-
-  **📍 Sylhet, Bangladesh 🇧🇩 | 🤖 AI & Automation | 🎵 Voice Tech**
+  &nbsp;
+  <a href="https://github.com/rax545?tab=starred">
+    <img src="https://img.shields.io/badge/⭐_STARRED-FFD700?style=for-the-badge"/>
+  </a>
 
 </div>
 
@@ -40,7 +69,59 @@ I create software that solves real problems—from Discord automation ecosystems
 
 ---
 
+## 🔄 MY DEVELOPER WORKFLOW
+
 <div align="center">
+
+```
+IDEA 💡 → DESIGN 🎨 → CODE 💻 → TEST 🧪 → DEPLOY 🚀 → ITERATE 🔁
+   ↓         ↓          ↓         ↓         ↓          ↓
+PASSION  PLANNING   BUILDING   QUALITY   RELEASE   IMPROVE
+```
+
+**Philosophy:** Build → Learn → Iterate → Ship → Repeat
+
+</div>
+
+<br>
+
+---
+
+## ⚡ THE ENERGY CHART
+
+<div align="center">
+
+| Aspect | Energy Level | Notes |
+|--------|:------------:|-------|
+| **Coding** | 🔥🔥🔥🔥🔥 | Always ON |
+| **Learning** | 🔥🔥🔥🔥🔥 | Never stops |
+| **Collaboration** | 🔥🔥🔥🔥☆ | Team player |
+| **Debugging** | 🔥🔥🔥🔥🔥 | Problem solver |
+| **Coffee Intake** | ☕☕☕☕☕ | Critical resource |
+
+</div>
+
+<br>
+
+---
+
+## 🌙 NIGHT OWL MODE ACTIVATED 🌙
+
+<div align="center">
+
+```
+⏰ 10 PM  → Ideas start flowing 💡
+⏰ 12 AM  → Code in the zone 🚀
+⏰ 2 AM   → Magic happens ✨
+⏰ 4 AM   → "Just one more feature..."
+⏰ 6 AM   → Sleep? What's that? 😴
+```
+
+**Best ideas come after midnight. Facts.** 🌟
+
+</div>
+
+<br>
 
 ## 🛠️ WHAT I BUILD
 
@@ -214,7 +295,46 @@ async def play_music(ctx, *, query):
 
 ---
 
-## 📊 GITHUB STATISTICS
+## 🏆 COMPETITIVE PROGRAMMING WARRIOR
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════╗
+║        TOPH COMPETITIVE PROGRAMMING        ║
+║                                            ║
+║  🎯 500+ Problems Solved                   ║
+║  ⭐ DSA Expert • Problem Solving Master   ║
+║  🚀 Always Grinding • Always Learning      ║
+║  💪 Never Give Up Mentality                ║
+║                                            ║
+╚════════════════════════════════════════════╝
+```
+
+**Track Record:** Consistent problem solver | Algorithm specialist | Speed coder
+
+</div>
+
+<br>
+
+---
+
+## 💎 PERSONAL BRAND
+
+<div align="center">
+
+| What | How I Roll |
+|------|-----------|
+| **Coding Style** | Clean, Efficient, Scalable |
+| **Problem Solving** | Creative + Systematic |
+| **Communication** | Clear + Collaborative |
+| **Work Ethic** | 100% Commitment |
+| **Learning** | Fast Learner • Adaptable |
+| **Innovation** | Building the Future |
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -377,7 +497,48 @@ async def play_music(ctx, *, query):
 
 ---
 
-## 🤝 LET'S CONNECT & COLLABORATE
+---
+
+## 🎯 WHY COLLABORATE WITH ME?
+
+<div align="center">
+
+```
+✅ Fast Learner           ✅ Problem Solver
+✅ Quality Code Writer    ✅ Creative Thinker
+✅ Team Player            ✅ Reliable Deliverer
+✅ Always Passionate      ✅ Open to Feedback
+✅ Never Quit Attitude    ✅ Deadline Driven
+```
+
+**My Secret Sauce:** Passion + Persistence + Programming = Magic ✨
+
+</div>
+
+<br>
+
+---
+
+## 🚀 LET'S BUILD SOMETHING AMAZING TOGETHER
+
+<div align="center">
+
+<h3>💬 Open To:</h3>
+
+✅ **Collaborations** on Discord bots, AI projects, automation tools  
+✅ **Open Source** contributions and community projects  
+✅ **Mentorship** - Both giving and receiving  
+✅ **Contract Projects** for businesses needing solid tech  
+✅ **Hackathons** and competitive programming challenges  
+✅ **Discussions** about tech trends, AI, and innovation  
+
+<br>
+
+<b>Have an idea? Let's discuss! Have a project? Let's build it! 🚀</b>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -419,10 +580,57 @@ async def play_music(ctx, *, query):
 
 <br>
 
+<br>
+
+---
+
+## 🎮 FUN FACTS & EASTER EGGS 🎮
+
+<div align="center">
+
+🎵 **Playlist:** Lofi beats + Focus music 24/7  
+🎮 **Keyboard:** Mechanical > Anything else  
+☕ **Coffee:** Black, strong, no sugar  
+💻 **Setup:** Dual monitor, RGB lighting not required  
+🌍 **Timezone:** GMT+6 (Sylhet, Bangladesh)  
+🎯 **Status:** `[ ██████████ ] 100% FOCUSED`  
+
+<br>
+
+**Fun Fact:** My best code was written at 3 AM with rain outside and lo-fi music playing. 🌧️✨
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
 
-<sub>**Made with ❤️ by Joy Debnath** | *Always Building, Always Learning*</sub>
+## 🌟 FINAL THOUGHTS 🌟
+
+```
+"Every expert was once a beginner who refused to give up."
+
+I'm on that journey. Every day, every project, every bug fixed - 
+it's a step towards becoming the developer I want to be.
+
+Thank you for checking out my profile! 
+Now let's build something that changes the world. 🚀
+```
+
+<br>
+
+**Made with ❤️ and countless cups of ☕ by Joy Debnath**  
+*Always Coding • Always Learning • Always Growing*
+
+<br>
+
+```
+═══════════════════════════════════════════════════════════════
+              Follow the code, Follow the passion!
+              Last Updated: 2026 | Still Building...
+═══════════════════════════════════════════════════════════════
+```
 
 </div>
