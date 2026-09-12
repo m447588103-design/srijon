@@ -1,183 +1,20 @@
-<div align="center">
+<h3 align="center">A passionate frontend developer from Bd</h3>
 
-  <!-- Crimson Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=JOY%20DEBNATH&fontSize=62&fontAlignY=36&desc=Code%20%2F%20Create%20%2F%20Repeat&descAlignY=56&animation=fadeIn&fontColor=ffffff&color=0:000000,45:250000,100:ff2020" width="100%"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joy&label=Profile%20views&color=0e75b6&style=flat" alt="joy" /> </p>
 
-  <br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joy" alt="joy" /></a> </p>
 
-  <!-- Typing SVG Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=700&color=FF3030&center=true&vCenter=true&width=650&lines=CSE+Student+%E2%80%A2+Developer;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Discord+%E2%80%A2+AI;Building+things+I+actually+want+to+use.;Welcome+to+my+Digital+Space." alt="Typing SVG" />
-  </a>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-  <br><br>
-
-  <!-- Quick Links Badges -->
-  <a href="https://github.com/rax545">
-    <img src="https://img.shields.io/badge/rax545-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=FF3030"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/rax545?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=ff3030&borderColor=FF3030"/>
-  </a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### ⚡ ABOUT ME
-
-**Computer Science & Engineering student from Bangladesh 🇧🇩**
-
-I build software, automation systems, Discord bots, and AI-powered tools.  
-I care about **functionality, clean architecture, and making projects feel different.**
-
-</div>
-
-<br>
-
-<div align="center">
-
-## ✦ WHAT I BUILD
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI-Assistants_%7C_Voice_%7C_Automation-111111?style=for-the-badge&borderColor=FF3030" />
-  <img src="https://img.shields.io/badge/⚡_SOFTWARE-Python_%7C_C%2FC%2B%2B_%7C_CLI_Tools-111111?style=for-the-badge&borderColor=FF3030" />
-  <br>
-  <img src="https://img.shields.io/badge/🎧_DISCORD-Bots_%7C_Music_%7C_TTS_Engine-111111?style=for-the-badge&borderColor=FF3030" />
-  <img src="https://img.shields.io/badge/🌐_WEB-Applications_%7C_Firebase_%7C_UI-111111?style=for-the-badge&borderColor=FF3030" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy&show_icons=true&locale=en&layout=compact" alt="joy" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joy&show_icons=true&locale=en" alt="joy" /></p>
 
-## ✦ FEATURED PROJECTS
-
-<table border="0">
-<tr>
-<td width="50%">
-
-### 🐺 WHITE_WOLF GLOBAL
-> Custom Discord ecosystem focused on automation, music, voice, and community tools.
-
-`Python` · `Discord.py` · `FFmpeg` · `yt-dlp`
-
-</td>
-<td width="50%">
-
-### 🤖 KITT Voice System
-> Futuristic Discord voice assistant that reacts to voice activity and generates automated announcements.
-
-`Python` · `Discord Voice` · `TTS` · `Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 JARVIS AI
-> Local voice assistant for computer interaction, application control, file management, and intelligent conversation.
-
-`Python` · `Voice AI` · `System Automation`
-
-</td>
-<td width="50%">
-
-### 🛡️ CyberNest
-> C/C++ learning platform concept with coding practice, exams, daily tasks, certificates, and AI assistance.
-
-`C/C++` · `Web` · `Firebase` · `AI`
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<div align="center">
-
-## ✦ TECHNOLOGIES & TOOLS
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git,github,vscode,linux,docker,firebase&theme=dark&perline=6"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## ✦ GITHUB ANALYTICS
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rax545&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=rax545&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=C9D1D9&dates=666666" width="49%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rax545&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## ✦ CONTRIBUTIONS
-
-<br>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### 🚀 CURRENTLY BUILDING
-
-**AI · Automation · Discord Ecosystems · Voice Technology**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Learning+something+new+every+day.;One+project+at+a+time.;More+ideas+coming+soon..." />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-<a href="https://github.com/rax545">
-  <img src="https://img.shields.io/badge/GitHub-rax545-111111?style=for-the-badge&logo=github&logoColor=white&borderColor=FF3030"/>
-</a>
-
-<br><br>
-
-<sub>Designed & built by <b>Joy Debnath</b></sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:ff2020,45:250000,100:000000"/>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy&" alt="joy" /></p>
