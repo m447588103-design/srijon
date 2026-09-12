@@ -1,39 +1,28 @@
 <div align="center">
 
-  <!-- Crimson Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=JOY%20DEBNATH&fontSize=70&fontAlignY=40&desc=Code%20%7C%20Create%20%7C%20Repeat&descSize=20&descAlignY=60&animation=fadeIn&fontColor=ffffff&color=0:000000,45:250000,100:ff2020" width="100%"/>
+  # 🎯 JOY DEBNATH
+  ### Code • Create • Repeat
+  
+  **CSE Student | First Year at Leading University**
+  
+  Building Discord bots, AI assistants, and automation tools.
 
   <br>
 
-  <!-- Typing SVG Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2500&pause=700&color=FF3030&center=true&vCenter=true&width=700&lines=🎓+CSE+Student+%7C+First+Year+at+Leading+University;💻+Full-Stack+Developer+%7C+AI+Enthusiast;🤖+Discord+Bot+Architect+%7C+Voice+Tech+Expert;🚀+Building+innovative+solutions+daily" alt="Typing SVG" />
-  </a>
-
-  <br><br>
-
   <!-- Social & Profile Links -->
   <a href="https://github.com/rax545">
-    <img src="https://img.shields.io/badge/GitHub-rax545-000000?style=for-the-badge&logo=github&logoColor=white&borderRadius=10&borderColor=FF3030"/>
+    <img src="https://img.shields.io/badge/GitHub-rax545-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/rax545?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀_VIEW_PROJECTS-FF3030?style=for-the-badge&logoColor=white&borderRadius=10"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/joy-debnath">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=10"/>
+    <img src="https://img.shields.io/badge/📂_VIEW_PROJECTS-FF3030?style=for-the-badge"/>
   </a>
 
-  <br><br>
+  <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=700&color=888888&center=true&vCenter=true&width=600&lines=📍+Sylhet%2C+Bangladesh+🇧🇩;🎯+Competitive+Programmer+on+Toph;💡+AI+%26+Automation+Specialist;🎵+Music+%26+Voice+Tech+Enthusiast" />
+  **📍 Sylhet, Bangladesh 🇧🇩 | 🤖 AI & Automation | 🎵 Voice Tech**
 
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
@@ -138,10 +127,6 @@ I create software that solves real problems—from Discord automation ecosystems
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
 ---
 
 ## 🔧 TECH STACK & TOOLS
@@ -206,10 +191,6 @@ I create software that solves real problems—from Discord automation ecosystems
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=💭+Always+learning+something+new;🎯+One+project+%3D+One+lesson;🔄+Building+the+future%2C+one+commit+at+a+time;🌟+Open+to+collaborations" />
-
-<br>
-
 ---
 
 ## 💡 FUN FACTS
@@ -255,8 +236,6 @@ I create software that solves real problems—from Discord automation ecosystems
 </div>
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:ff2020,45:250000,100:000000&animation=fadeIn"/>
 
 ---
 
