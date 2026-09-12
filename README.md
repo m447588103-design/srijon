@@ -1,149 +1,168 @@
 <div align="center">
 
-# Joy Debnath
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:160000,100:ff1a1a&height=220&section=header&text=JOY!&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Developer%20%7C%20CSE%20Student%20%7C%20Builder&descAlignY=60&descSize=18"/>
 
-**Computer Science & Engineering Student · Developer · Builder**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF3131&center=true&vCenter=true&width=750&lines=Building+ideas+into+real+projects.;Python+%7C+C%2B%2B+%7C+Discord+%7C+AI;Creating+systems+that+feel+different.;Welcome+to+my+digital+space." />
 
-I build practical software, automation systems, and digital experiences.
+<br><br>
 
-<br>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://github.com/rax545">
+<img src="https://img.shields.io/github/followers/rax545?style=for-the-badge&logo=github&label=FOLLOWERS&color=161616&labelColor=000000"/>
 </a>
 
+<a href="https://github.com/rax545?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-49-161616?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## About
+<div align="center">
 
-I'm a Computer Science & Engineering student from Bangladesh, interested in turning ideas into useful, polished software.
+## `01 — ABOUT ME`
 
-My main interests are **Python development, Discord systems, AI assistants, automation, voice technology, and modern web applications**.
-
-I enjoy working on projects where software isn't just functional—it should also feel thoughtful, reliable, and well designed.
+</div>
 
 ```text
-Currently focused on
+I'm Joy.
 
-Python          ████████████████████
-C / C++         ██████████████████
-Discord Systems ███████████████████
-AI & Automation ████████████████
-Web Development ███████████████
-```
+A Computer Science & Engineering student who enjoys
+building software, automation systems and creative
+digital experiences.
 
----
+I don't like making projects just to say "I made one."
 
-## What I Build
+I prefer projects that are:
 
-**Discord & Automation**
+        useful
+        polished
+        experimental
+        and a little different.
+<div align="center">
+02 — WHAT I DO
+</div> <table align="center"> <tr> <td width="50%" valign="top">
+🤖 AI & Automation
 
-Custom bots, server automation, music systems, ticket systems, voice interactions, and utility tools.
+Building intelligent tools, assistants and automation systems.
 
-**AI & Voice**
+AI assistants
+Voice / TTS systems
+Desktop automation
+Smart utilities
+</td> <td width="50%" valign="top">
+🎧 Discord Development
 
-Local assistants, TTS systems, conversational interfaces, and automation driven by AI.
+Designing custom Discord systems and server experiences.
 
-**Software**
+Music systems
+Voice bots
+Ticket systems
+Server automation
+</td> </tr> <tr> <td width="50%" valign="top">
+🌐 Web & Software
 
-Desktop utilities, learning platforms, authentication systems, and practical applications.
+Creating practical applications with clean interfaces.
 
-**Web**
+Web applications
+Authentication
+Learning platforms
+Utility software
+</td> <td width="50%" valign="top">
+🧠 Computer Science
 
-Clean interfaces and functional web applications with a focus on usability.
+Currently developing stronger foundations in:
 
----
+C / C++
+Algorithms
+Data Structures
+Software Engineering
+</td> </tr> </table>
+<div align="center">
+03 — TECH STACK
+<br> <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,git,github,vscode,linux,docker,firebase&perline=6"/> </div>
+<div align="center">
+04 — SELECTED PROJECTS
+</div>
+🐺 WHITE_WOLF GLOBAL
 
-## Selected Work
+A custom Discord ecosystem
 
-### WHITE_WOLF GLOBAL
+A collection of custom systems built for a modern Discord community.
 
-A custom Discord ecosystem built around automation, music, voice, and server management.
+Music        ────────────────┐
+Voice / TTS  ────────────────┤
+Tickets      ────────────────┼──► WHITE_WOLF GLOBAL
+Automation   ────────────────┤
+Utilities    ────────────────┘
 
-**Python · Discord.py · FFmpeg · yt-dlp**
+Python Discord.py FFmpeg yt-dlp
 
----
+🧠 JARVIS
 
-### KITT Voice System
+Local AI Voice Assistant
 
-A voice-aware Discord assistant designed to make server activity feel more interactive through automated voice announcements.
+A personal desktop assistant focused on voice interaction, application control, file management and system automation.
 
-**Python · Discord Voice · TTS · Event Automation**
+Python Voice AI Automation
 
----
+🤖 KITT VOICE SYSTEM
 
-### JARVIS
+Futuristic Discord Voice Assistant
 
-A local voice assistant focused on computer interaction, file management, system automation, and intelligent conversation.
+An event-driven Discord voice system designed to make voice channels feel more interactive.
 
-**Python · Voice Processing · Automation**
+USER EVENT
+    ↓
+VOICE EVENT DETECTED
+    ↓
+KITT ENGINE
+    ↓
+TTS GENERATION
+    ↓
+DISCORD VOICE
 
----
+Python Discord Voice TTS Automation
 
-### CyberNest
+🛡️ CYBERNEST
 
-A learning platform concept for C/C++ students combining coding practice, examinations, daily tasks, certificates, and a Bangla-English learning assistant.
+C / C++ Learning Platform
 
-**C/C++ · Web · Education · AI**
+A learning platform concept combining coding practice, examinations, daily tasks, certificates and an AI learning assistant.
 
----
-
-## Tech Stack
+C/C++ Web Education AI
 
 <div align="center">
+05 — GITHUB ACTIVITY
+<br> <img src="https://github-readme-stats.vercel.app/api?username=rax545&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3131&icon_color=ff3131&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,git,github,vscode,linux,docker,firebase" />
+<br><br>
 
-</div>
-
----
-
-## GitHub
-
+<img src="https://streak-stats.demolab.com?user=rax545&theme=dark&hide_border=true&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ff3131"/> </div>
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff3b30&icon_color=ff3b30&text_color=888888&rank_icon=github" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=ff3b30&fire=ff3b30&currStreakLabel=ff3b30&sideLabels=888888&dates=888888" height="165"/>
-
-</div>
-
----
-
-## Current Direction
-
-```text
-→ Strengthening Computer Science fundamentals
-→ Building production-ready Discord systems
-→ Exploring AI & voice technology
-→ Improving software architecture
-→ Learning through real-world projects
-```
-
----
-
-## Philosophy
-
-> Build something useful.
-> Make it simple.
-> Make it reliable.
-> Then make it better.
-
----
-
+06 — CONTRIBUTIONS
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/> </div>
 <div align="center">
-
-### Let's build something interesting.
-
-<br>
-
-**Joy Debnath**
-
-*CSE · Developer · Bangladesh*
-
+07 — CURRENTLY
+╭──────────────────────────────────────────────╮
+│                                              │
+│   ◉ Learning                                │
+│   ◉ Building                                │
+│   ◉ Experimenting                           │
+│   ◉ Improving                               │
+│                                              │
+│   Next project: ████████████████░░░░         │
+│                                              │
+╰──────────────────────────────────────────────╯
 </div>
+<div align="center">
+08 — FIND ME
+<a href="https://github.com/rax545"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=FF3131"/> </a> </div> <br> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=777777&center=true&vCenter=true&width=600&lines=Think.;Build.;Break.;Learn.;Build+Again." />
+
+<br><br>
+
+Joy Debnath
+
+CSE Student • Developer • Builder
+
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,50:160000,100:050505&height=120&section=footer"/> </div> ```
