@@ -84,6 +84,7 @@ I create software that solves real problems—from Discord automation ecosystems
 | **Tech Stack** | Python · Discord.py · FFmpeg · yt-dlp · PostgreSQL |
 | **Features** | 🎵 Music streaming · 🤖 Auto-moderation · 📊 Analytics · 🎤 Voice events |
 | **Status** | 🚀 Active & Maintained |
+| **GitHub** | [Explore](https://github.com/rax545) |
 
 ---
 
@@ -96,6 +97,7 @@ I create software that solves real problems—from Discord automation ecosystems
 | **Tech Stack** | Python · Discord Voice API · Text-to-Speech · Event Handling |
 | **Features** | 🎤 Voice detection · 📢 Auto announcements · 🎵 Sound effects · 📱 Smart responses |
 | **Status** | 🔧 In Development |
+| **GitHub** | [Explore](https://github.com/rax545) |
 
 ---
 
@@ -108,6 +110,7 @@ I create software that solves real problems—from Discord automation ecosystems
 | **Tech Stack** | Python · Speech Recognition · NLP · PyAutoGUI |
 | **Features** | 🗣️ Voice commands · 📁 File management · 💬 Natural conversation · ⚙️ System control |
 | **Status** | 🚀 Production Ready |
+| **GitHub** | [Explore](https://github.com/rax545) |
 
 ---
 
@@ -120,6 +123,7 @@ I create software that solves real problems—from Discord automation ecosystems
 | **Tech Stack** | C/C++ · Web (React) · Firebase · Claude API |
 | **Features** | 📝 Coding exercises · 🏆 Contests · 🎓 Certificates · 🤖 AI assistant |
 | **Status** | 🎯 Planned Launch |
+| **GitHub** | [Explore](https://github.com/rax545) |
 
 </div>
 
@@ -127,17 +131,84 @@ I create software that solves real problems—from Discord automation ecosystems
 
 ---
 
-## 🔧 TECH STACK & TOOLS
+## 🔧 TECH STACK & EXPERTISE
 
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,nodejs,react,firebase&theme=dark&perline=9"/>
+### 🔴 PROFICIENT (Daily Use)
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,discord&theme=dark&perline=8"/>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma&theme=dark&perline=6"/>
+**Python** · **C/C++** · **JavaScript** · **Discord.py**
+
+### 🟡 COMPETENT (Regular Use)
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,react,firebase&theme=dark&perline=8"/>
+
+**HTML/CSS** · **Node.js** · **React** · **Firebase**
+
+### 🟢 FAMILIAR (Exploring)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,mongodb,postgresql&theme=dark&perline=8"/>
+
+**Docker** · **Kubernetes** · **MongoDB** · **PostgreSQL**
+
+### ⚙️ TOOLS & PLATFORMS
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,claude&theme=dark&perline=8"/>
+
+**Git** · **GitHub** · **VS Code** · **Linux** · **Figma** · **Claude AI**
 
 </div>
+
+<br>
+
+---
+
+## 📈 EXPERTISE BREAKDOWN
+
+<div align="center">
+
+| Domain | Expertise | Projects |
+|--------|-----------|----------|
+| **Discord Bots** | ⭐⭐⭐⭐⭐ | WHITE_WOLF, KITT, Music Bots |
+| **Python** | ⭐⭐⭐⭐⭐ | CLI tools, AI, Automation |
+| **Voice Tech** | ⭐⭐⭐⭐☆ | JARVIS, KITT, TTS engines |
+| **Competitive Programming** | ⭐⭐⭐⭐☆ | 500+ problems on Toph |
+| **Web Development** | ⭐⭐⭐⭐☆ | CyberNest, Firebase projects |
+| **AI/ML** | ⭐⭐⭐☆☆ | Learning, experimenting |
+
+</div>
+
+<br>
+
+---
+
+## 💎 CODE SNIPPET - WHITE_WOLF BOT EXAMPLE
+
+```python
+# Discord Bot Music Command - A taste of my work
+@bot.command(name='play')
+async def play_music(ctx, *, query):
+    """Stream music from YouTube to Discord voice channel"""
+    try:
+        voice_channel = ctx.author.voice.channel
+        if not voice_channel:
+            return await ctx.send("❌ Join a voice channel first!")
+        
+        # Find and download track
+        vc = await voice_channel.connect()
+        stream = download_audio(query)
+        
+        # Play with enhanced audio
+        vc.play(discord.FFmpegPCMAudio(
+            stream,
+            before_options="-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5",
+            options="-vn"
+        ))
+        
+        await ctx.send(f"🎵 Now playing: **{query}**")
+    except Exception as e:
+        await ctx.send(f"⚠️ Error: {str(e)}")
+```
+
+<p align="center"><i>"Clean code is a reflection of respect for the craft"</i></p>
 
 <br>
 
@@ -195,6 +266,81 @@ I create software that solves real problems—from Discord automation ecosystems
 
 ---
 
+## ⚡ DEVELOPER CHALLENGE 
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h4>🎯 30-Day Challenge</h4>
+<p>1 Project / Day</p>
+<p><code>Active</code></p>
+</td>
+<td align="center" width="33%">
+<h4>🏆 LeetCode Streak</h4>
+<p>Competitive Programming</p>
+<p><code>500+ Problems</code></p>
+</td>
+<td align="center" width="33%">
+<h4>💻 Open Source</h4>
+<p>Contributing to Projects</p>
+<p><code>In Progress</code></p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+## 🌟 RANDOM DEV QUOTE
+
+<div align="center">
+
+> **"The best way to predict the future is to invent it."** — Alan Kay
+
+<p><i>Every line of code I write is an attempt to solve a real problem and make someone's life easier.</i></p>
+
+</div>
+
+<br>
+
+---
+
+## 🏆 ACHIEVEMENTS & MILESTONES
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🔗 50+</h3>
+<p>GitHub<br>Repositories</p>
+</td>
+<td align="center" width="25%">
+<h3>⭐ 100+</h3>
+<p>Total Stars<br>on Projects</p>
+</td>
+<td align="center" width="25%">
+<h3>🤝 15+</h3>
+<p>Active Discord<br>Bots Deployed</p>
+</td>
+<td align="center" width="25%">
+<h3>🎯 500+</h3>
+<p>Competitive<br>Problems Solved</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
 ## 💡 FUN FACTS
 
 <div align="center">
@@ -205,6 +351,8 @@ I create software that solves real problems—from Discord automation ecosystems
 - 🌙 **Night Owl Developer** — Best code happens after midnight ✨
 - 🎮 **Tech Curious** — Always exploring new tools and frameworks
 - 📱 **LUSSC Active** — Contributing to university community initiatives
+- 💻 **Discord Ecosystem Builder** — Created 15+ production Discord bots
+- 🎓 **First Year Excellence** — Batch 69 Leading University CSE
 
 </div>
 
@@ -212,7 +360,24 @@ I create software that solves real problems—from Discord automation ecosystems
 
 ---
 
-## 🤝 LET'S CONNECT
+## 🎯 WHAT'S NEXT?
+
+<div align="center">
+
+| Phase | Goal | Timeline |
+|-------|------|----------|
+| **Phase 1** | Complete CyberNest MVP | Next 2 months |
+| **Phase 2** | Launch AI-powered learning platform | Q4 2026 |
+| **Phase 3** | Open-source Discord framework | 2027 |
+| **Phase 4** | Build ML-powered automation suite | Ongoing |
+
+</div>
+
+<br>
+
+---
+
+## 🤝 LET'S CONNECT & COLLABORATE
 
 <div align="center">
 
@@ -226,14 +391,29 @@ I create software that solves real problems—from Discord automation ecosystems
 
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-Contact-FF3030?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/>
+</a>&nbsp;
+
+<a href="https://discord.com/users/rax545">
+  <img src="https://img.shields.io/badge/Discord-rax-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20"/>
 </a>
 
 <br><br>
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=rax545&color=FF3030&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+<br>
+
 <p>
-  <i>"Code is poetry written in logic."</i><br><br>
-  <b>Open to collaborations, mentorship, and exciting projects!</b>
+  <i>"Code is poetry written in logic. Every project is a masterpiece in progress."</i><br><br>
+  <b>🚀 Open to collaborations, open-source contributions, and exciting tech projects!</b><br>
+  <b>💡 Always interested in discussing AI, automation, and scalable systems</b>
 </p>
+
+<br>
+
+**Let's build something amazing together!** ✨
 
 </div>
 
