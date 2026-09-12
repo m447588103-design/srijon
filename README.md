@@ -1,25 +1,51 @@
 <div align="center">
 
   <!-- Crimson Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=JOY%20DEBNATH&fontSize=62&fontAlignY=36&desc=Code%20%2F%20Create%20%2F%20Repeat&descAlignY=56&animation=fadeIn&fontColor=ffffff&color=0:000000,45:250000,100:ff2020" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=JOY%20DEBNATH&fontSize=70&fontAlignY=40&desc=Code%20%7C%20Create%20%7C%20Repeat&descSize=20&descAlignY=60&animation=fadeIn&fontColor=ffffff&color=0:000000,45:250000,100:ff2020" width="100%"/>
 
   <br>
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=700&color=FF3030&center=true&vCenter=true&width=650&lines=CSE+Student+%E2%80%A2+Developer;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Discord+%E2%80%A2+AI;Building+things+I+actually+want+to+use.;Welcome+to+my+Digital+Space." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2500&pause=700&color=FF3030&center=true&vCenter=true&width=700&lines=🎓+CSE+Student+%7C+First+Year+at+Leading+University;💻+Full-Stack+Developer+%7C+AI+Enthusiast;🤖+Discord+Bot+Architect+%7C+Voice+Tech+Expert;🚀+Building+innovative+solutions+daily" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- Quick Links Badges -->
+  <!-- Social & Profile Links -->
   <a href="https://github.com/rax545">
-    <img src="https://img.shields.io/badge/rax545-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=FF3030"/>
+    <img src="https://img.shields.io/badge/GitHub-rax545-000000?style=for-the-badge&logo=github&logoColor=white&borderRadius=10&borderColor=FF3030"/>
   </a>
   &nbsp;
   <a href="https://github.com/rax545?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=ff3030&borderColor=FF3030"/>
+    <img src="https://img.shields.io/badge/🚀_VIEW_PROJECTS-FF3030?style=for-the-badge&logoColor=white&borderRadius=10"/>
   </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/joy-debnath">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=10"/>
+  </a>
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=700&color=888888&center=true&vCenter=true&width=600&lines=📍+Sylhet%2C+Bangladesh+🇧🇩;🎯+Competitive+Programmer+on+Toph;💡+AI+%26+Automation+Specialist;🎵+Music+%26+Voice+Tech+Enthusiast" />
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+### 🎯 ABOUT ME
+
+**A first-year Computer Science student with a passion for building things that matter.**
+
+I create software that solves real problems—from Discord automation ecosystems to AI voice assistants. I believe in writing clean code, architectural excellence, and making every project feel *different*.
+
+**Currently learning:** Advanced Python · AI/ML · System Design · Voice Technology
 
 </div>
 
@@ -29,155 +55,213 @@
 
 <div align="center">
 
-### ⚡ ABOUT ME
+## 🛠️ WHAT I BUILD
 
-**Computer Science & Engineering student from Bangladesh 🇧🇩**
-
-I build software, automation systems, Discord bots, and AI-powered tools.  
-I care about **functionality, clean architecture, and making projects feel different.**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖-AI_SYSTEMS-FF3030?style=flat-square&labelColor=000000" />
+<p><small>Voice Assistants<br>AI Automation<br>LLM Integration</small></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⚡-SOFTWARE-00D4FF?style=flat-square&labelColor=000000" />
+<p><small>Python/C++<br>CLI Tools<br>System Utilities</small></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎧-DISCORD-5865F2?style=flat-square&labelColor=000000" />
+<p><small>Bots & Ecosystems<br>Music Streaming<br>Voice Tech</small></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌐-WEB-FFB700?style=flat-square&labelColor=000000" />
+<p><small>Full-Stack Apps<br>Firebase Backend<br>Modern UI</small></p>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
+---
+
+## ⭐ FEATURED PROJECTS
+
 <div align="center">
 
-## ✦ WHAT I BUILD
+### 🐺 **WHITE_WOLF GLOBAL** 
+*Custom Discord Ecosystem for Automation & Community Management*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI-Assistants_%7C_Voice_%7C_Automation-111111?style=for-the-badge&borderColor=FF3030" />
-  <img src="https://img.shields.io/badge/⚡_SOFTWARE-Python_%7C_C%2FC%2B%2B_%7C_CLI_Tools-111111?style=for-the-badge&borderColor=FF3030" />
-  <br>
-  <img src="https://img.shields.io/badge/🎧_DISCORD-Bots_%7C_Music_%7C_TTS_Engine-111111?style=for-the-badge&borderColor=FF3030" />
-  <img src="https://img.shields.io/badge/🌐_WEB-Applications_%7C_Firebase_%7C_UI-111111?style=for-the-badge&borderColor=FF3030" />
+| Aspect | Details |
+|--------|---------|
+| **Purpose** | Complete Discord bot ecosystem with music, voice, automation |
+| **Tech Stack** | Python · Discord.py · FFmpeg · yt-dlp · PostgreSQL |
+| **Features** | 🎵 Music streaming · 🤖 Auto-moderation · 📊 Analytics · 🎤 Voice events |
+| **Status** | 🚀 Active & Maintained |
+
+---
+
+### 🤖 **KITT Voice System**
+*Futuristic Voice Assistant for Discord Communities*
+
+| Aspect | Details |
+|--------|---------|
+| **Purpose** | Automated voice announcements & community engagement |
+| **Tech Stack** | Python · Discord Voice API · Text-to-Speech · Event Handling |
+| **Features** | 🎤 Voice detection · 📢 Auto announcements · 🎵 Sound effects · 📱 Smart responses |
+| **Status** | 🔧 In Development |
+
+---
+
+### 🧠 **JARVIS AI**
+*Intelligent Local Voice Assistant for System Control*
+
+| Aspect | Details |
+|--------|---------|
+| **Purpose** | Desktop voice assistant for application control & automation |
+| **Tech Stack** | Python · Speech Recognition · NLP · PyAutoGUI |
+| **Features** | 🗣️ Voice commands · 📁 File management · 💬 Natural conversation · ⚙️ System control |
+| **Status** | 🚀 Production Ready |
+
+---
+
+### 🛡️ **CyberNest**
+*Educational Platform for C/C++ Learning & Practice*
+
+| Aspect | Details |
+|--------|---------|
+| **Purpose** | Comprehensive learning platform with practice, contests & AI help |
+| **Tech Stack** | C/C++ · Web (React) · Firebase · Claude API |
+| **Features** | 📝 Coding exercises · 🏆 Contests · 🎓 Certificates · 🤖 AI assistant |
+| **Status** | 🎯 Planned Launch |
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+---
+
+## 🔧 TECH STACK & TOOLS
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,nodejs,react,firebase&theme=dark&perline=9"/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma&theme=dark&perline=6"/>
+
+</div>
+
+<br>
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rax545&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=C9D1D9&rank_icon=github&include_all_commits=true&theme=dark" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=rax545&hide_border=false&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=C9D1D9&dates=666666" width="49%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rax545&bg_color=0D1117&color=FF3030&line=FF3030&point=FF3030&area=true&hide_border=false&theme=redical" width="98%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rax545&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6&row=2"/>
+
+</div>
+
+<br>
+
+---
+
+## 🎯 CURRENT FOCUS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<h3>📚 Learning</h3>
+<p>Advanced Python<br>Machine Learning<br>System Design<br>Voice AI</p>
+</td>
+<td align="center">
+<h3>🚀 Building</h3>
+<p>Discord Ecosystems<br>AI Assistants<br>Automation Tools<br>Web Applications</p>
+</td>
+<td align="center">
+<h3>🎓 Studying</h3>
+<p>Data Structures<br>Algorithms<br>Competitive Programming<br>Computer Networks</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=💭+Always+learning+something+new;🎯+One+project+%3D+One+lesson;🔄+Building+the+future%2C+one+commit+at+a+time;🌟+Open+to+collaborations" />
+
+<br>
+
+---
+
+## 💡 FUN FACTS
+
+<div align="center">
+
+- 🎵 **Music Enthusiast** — Built music bots and TTS engines
+- 🤖 **AI Experimenter** — Love playing with voice AI and LLMs  
+- 🏆 **Competitive Programmer** — Active on Toph (DSA + Problem Solving)
+- 🌙 **Night Owl Developer** — Best code happens after midnight ✨
+- 🎮 **Tech Curious** — Always exploring new tools and frameworks
+- 📱 **LUSSC Active** — Contributing to university community initiatives
+
+</div>
+
+<br>
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/rax545">
+  <img src="https://img.shields.io/badge/GitHub-rax545-000000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/>
+</a>&nbsp;
+
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
+</a>&nbsp;
+
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-FF3030?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/>
+</a>
+
+<br><br>
+
+<p>
+  <i>"Code is poetry written in logic."</i><br><br>
+  <b>Open to collaborations, mentorship, and exciting projects!</b>
 </p>
 
 </div>
 
 <br>
 
----
-
-## ✦ FEATURED PROJECTS
-
-<table border="0">
-<tr>
-<td width="50%">
-
-### 🐺 WHITE_WOLF GLOBAL
-> Custom Discord ecosystem focused on automation, music, voice, and community tools.
-
-`Python` · `Discord.py` · `FFmpeg` · `yt-dlp`
-
-</td>
-<td width="50%">
-
-### 🤖 KITT Voice System
-> Futuristic Discord voice assistant that reacts to voice activity and generates automated announcements.
-
-`Python` · `Discord Voice` · `TTS` · `Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 JARVIS AI
-> Local voice assistant for computer interaction, application control, file management, and intelligent conversation.
-
-`Python` · `Voice AI` · `System Automation`
-
-</td>
-<td width="50%">
-
-### 🛡️ CyberNest
-> C/C++ learning platform concept with coding practice, exams, daily tasks, certificates, and AI assistance.
-
-`C/C++` · `Web` · `Firebase` · `AI`
-
-</td>
-</tr>
-</table>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:ff2020,45:250000,100:000000&animation=fadeIn"/>
 
 ---
 
 <div align="center">
 
-## ✦ TECHNOLOGIES & TOOLS
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git,github,vscode,linux,docker,firebase&theme=dark&perline=6"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## ✦ GITHUB ANALYTICS
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rax545&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=rax545&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=C9D1D9&dates=666666" width="49%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rax545&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## ✦ CONTRIBUTIONS
-
-<br>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### 🚀 CURRENTLY BUILDING
-
-**AI · Automation · Discord Ecosystems · Voice Technology**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Learning+something+new+every+day.;One+project+at+a+time.;More+ideas+coming+soon..." />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-<a href="https://github.com/rax545">
-  <img src="https://img.shields.io/badge/GitHub-rax545-111111?style=for-the-badge&logo=github&logoColor=white&borderColor=FF3030"/>
-</a>
-
-<br><br>
-
-<sub>Designed & built by <b>Joy Debnath</b></sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:ff2020,45:250000,100:000000"/>
+<sub>**Made with ❤️ by Joy Debnath** | *Always Building, Always Learning*</sub>
 
 </div>
