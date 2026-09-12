@@ -1,114 +1,278 @@
-<!-- Banner Image (Replace with your own) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=200&section=header&text=Srijon%20Debnath&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header Banner"/>
-</p>
+<div align="center">
 
-<!-- Typing SVG (Optional) -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=BSc+Student+at+Leading+University;Aspiring+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
-  </a>
-</p>
+# 🔴 JOY DEBNATH
 
-<h1 align="center">Hi 👋, I'm Srijon Debnath</h1>
-<h3 align="center">A passionate learner from Bangladesh, pursuing a BSc at Leading University</h3>
+### `CSE STUDENT  •  DEVELOPER  •  BUILDER`
 
-<!-- Profile Views Counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="srijon-debnath" /> 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF3131&center=true&vCenter=true&width=700&lines=Engineering+Ideas+Into+Reality.;Discord+%7C+AI+%7C+Automation+%7C+Web;Building+Systems%2C+Not+Just+Projects.;Welcome+To+My+Digital+Lab+%E2%9A%A1" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header"/>
+
+`[ SYSTEM ONLINE ]`    ` [ DEVELOPER MODE ]`    `[ 2026 ]`
+
+</div>
 
 ---
 
-### 👨‍🎓 About Me
+## `01 // IDENTITY`
 
-- 🎓 I’m currently studying **BSc** at **Leading University**
-- 🌱 I’m currently learning **Python, JavaScript, and Web Development**
-- 💬 Ask me about **anything tech-related, I love to discuss!**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I think I am funny 😄**
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   NAME       →  JOY DEBNATH                                │
+│   ROLE       →  CSE STUDENT / DEVELOPER                    │
+│   BASE       →  BANGLADESH 🇧🇩                              │
+│   FOCUS      →  AI • AUTOMATION • DISCORD • WEB            │
+│   STATUS     →  BUILDING                                   │
+│                                                             │
+│   MINDSET    →  THINK → BUILD → BREAK → DEBUG → REPEAT     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
----
-
-### 🛠️ Tech Stack
-
-#### Languages & Tools:
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <!-- Add more icons from https://devicon.dev/ -->
-</p>
+> **I don't just learn technology. I turn ideas into systems.**
 
 ---
 
-### 📊 GitHub Stats
+## `02 // ABOUT ME`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+I'm a **Computer Science & Engineering student** who enjoys building things that feel different.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
-</p>
+My playground is a mix of:
 
----
+* 🤖 **AI & intelligent assistants**
+* ⚡ **Automation systems**
+* 🎧 **Discord bots & ecosystems**
+* 🌐 **Modern web applications**
+* 🔊 **Voice / TTS systems**
+* 🧠 **C / C++ / Python development**
+* 🎨 **Creative digital products**
 
-### 🌐 Connect with Me
+I like taking an ordinary idea and asking:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+```text
+"How can I make this feel PREMIUM?"
+```
 
 ---
 
-### 🏆 GitHub Trophies
+## `03 // TECH STACK`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git,github,vscode,linux,docker,firebase&perline=6" />
+
+</div>
+
+<br>
+
+```text
+LANGUAGES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Python       ████████████████████░  90%
+C / C++      ██████████████████░░░  82%
+JavaScript   █████████████████░░░░  78%
+
+TECH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Discord Dev  ███████████████████░░  88%
+Web Dev      █████████████████░░░░  78%
+AI / Voice   ███████████████░░░░░░  68%
+DevOps       █████████████░░░░░░░░  60%
+```
 
 ---
 
-### 📈 Contribution Graph
+## `04 // CURRENT LAB`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+### 🐺 WHITE_WOLF GLOBAL
+
+**Discord Automation Ecosystem**
+
+> Building a complete futuristic Discord ecosystem with music, tickets, voice systems and automation.
+
+```yaml
+project: WHITE_WOLF GLOBAL
+type: Discord Ecosystem
+core:
+  - Music
+  - Voice
+  - TTS
+  - Tickets
+  - Automation
+stack:
+  - Python
+  - Discord.py
+  - FFmpeg
+  - yt-dlp
+```
 
 ---
 
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=120&section=footer" alt="Footer Banner"/>
-</p>
+### 🤖 KITT VOICE SYSTEM
+
+**Futuristic Discord Voice Assistant**
+
+```text
+VOICE EVENT
+     │
+     ▼
+USER DETECTED
+     │
+     ▼
+KITT ENGINE
+     │
+     ├── JOIN
+     ├── LEAVE
+     └── MOVE
+     │
+     ▼
+VOICE ANNOUNCEMENT
+```
+
+Built to make a Discord server feel **alive**.
+
+---
+
+### 🧠 JARVIS
+
+**Local AI Voice Assistant**
+
+```text
+┌───────────────────────────┐
+│          JARVIS           │
+├───────────────────────────┤
+│ 🗣 Voice Interaction      │
+│ 🖥 Application Control    │
+│ 📁 File Control           │
+│ ⚙ System Automation       │
+│ 🧠 Intelligent Chat       │
+│ 🔐 Local Data             │
+└───────────────────────────┘
+```
+
+---
+
+### 🛡️ CYBERNEST
+
+**C / C++ Learning Platform**
+
+A learning environment concept combining:
+
+`CODE` → `PRACTICE` → `EXAM` → `CERTIFICATE`
+
+with a **Bangla + English** learning experience.
+
+---
+
+## `05 // DEVELOPER DNA`
+
+```python
+class Developer:
+
+    def __init__(self):
+        self.curiosity = "∞"
+        self.learning = True
+        self.ideas = "Unlimited"
+
+    def build(self, idea):
+        return f"Building → {idea}"
+
+    def fail(self):
+        return "Debug → Learn → Improve"
+
+    def repeat(self):
+        while True:
+            self.learn()
+            self.build()
+            self.improve()
+```
+
+---
+
+## `06 // GITHUB TERMINAL`
+
+```bash
+$ whoami
+
+joy@github:~$ developer
+
+$ location
+Bangladesh 🇧🇩
+
+$ mission
+Build something worth remembering.
+
+$ current_status
+████████████████████████████  ONLINE
+
+$ next_project
+???
+
+$ answer
+Always building...
+```
+
+---
+
+## `07 // GITHUB STATS`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF&ring_color=FF3131"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=FFFFFF&dates=888888"/>
+
+</div>
+
+---
+
+## `08 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## `09 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF3131"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║       CREATE  •  CODE  •  INNOVATE              ║
+║                                                  ║
+║              █ SYSTEM ONLINE █                   ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+### `— Built with curiosity. Powered by code. ⚡`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:180000,100:FF3131&height=130&section=footer"/>
+
+</div>
