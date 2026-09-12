@@ -3,9 +3,7 @@
   # 🎯 JOY DEBNATH
   ### Code • Create • Repeat
   
-  **CSE Student | First Year at Leading University**
-  
-  Building Discord bots, AI assistants, and automation tools.
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=CSE+Student+%7C+First+Year;Building+Discord+Bots+%26+AI;Code+%2B+Create+%2B+Repeat" alt="Typing SVG"/>
 
   <br>
 
@@ -15,7 +13,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/rax545?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_VIEW_PROJECTS-FF3030?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/📂_PROJECTS-FF3030?style=for-the-badge"/>
   </a>
 
   <br>
@@ -186,6 +184,10 @@ I create software that solves real problems—from Discord automation ecosystems
 </td>
 </tr>
 </table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=2000&color=888888&center=true&width=600&lines=💭+Always+learning+something+new;🎯+One+project+%3D+One+lesson;🚀+Building+the+future" alt="Status"/>
 
 </div>
 
